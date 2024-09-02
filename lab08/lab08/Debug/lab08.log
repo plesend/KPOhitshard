@@ -1,0 +1,27 @@
+﻿Сборка начата 10.05.2024 15:46:39.
+Уровень детализации журнала: Normal.     1>Проект "D:\лабораторные работы\кпо\lab08\lab08\lab08.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab08.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\lab08.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt 1.cpp
+         1.cpp
+     1>D:\лабораторные работы\кпо\lab08\lab08\1.cpp(3,78): error C2548: "defaultparm": отсутствует аргумент, используемый по умолчанию для параметра 2.
+     1>D:\лабораторные работы\кпо\lab08\lab08\1.cpp(3,78): error C2548: "defaultparm": отсутствует аргумент, используемый по умолчанию для параметра 3.
+     1>D:\лабораторные работы\кпо\lab08\lab08\1.cpp(3,78): error C2548: "defaultparm": отсутствует аргумент, используемый по умолчанию для параметра 4.
+     1>D:\лабораторные работы\кпо\lab08\lab08\1.cpp(3,78): error C2548: "defaultparm": отсутствует аргумент, используемый по умолчанию для параметра 7.
+     1>Сборка проекта "D:\лабораторные работы\кпо\lab08\lab08\lab08.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\лабораторные работы\кпо\lab08\lab08\lab08.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\лабораторные работы\кпо\lab08\lab08\1.cpp(3,78): error C2548: "defaultparm": отсутствует аргумент, используемый по умолчанию для параметра 2.
+         D:\лабораторные работы\кпо\lab08\lab08\1.cpp(3,78): error C2548: "defaultparm": отсутствует аргумент, используемый по умолчанию для параметра 3.
+         D:\лабораторные работы\кпо\lab08\lab08\1.cpp(3,78): error C2548: "defaultparm": отсутствует аргумент, используемый по умолчанию для параметра 4.
+         D:\лабораторные работы\кпо\lab08\lab08\1.cpp(3,78): error C2548: "defaultparm": отсутствует аргумент, используемый по умолчанию для параметра 7.
+
+    Предупреждений: 0
+    Ошибок: 4
+
+Прошло времени 00:00:01.21

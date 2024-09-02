@@ -1,0 +1,46 @@
+﻿Сборка начата 22.03.2024 10:04:30.
+Уровень детализации журнала: Normal.     1>Проект "D:\лабораторные работы\кпо\lab04\lab04\lab04.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "D:\лабораторные работы\кпо\lab04\x64\Debug\".
+         Создание каталога "x64\Debug\lab04.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\lab04.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\lab04.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt lab04.cpp
+         lab04.cpp
+     1>D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(32,21): warning C4838: Преобразование из "int" в "year" требует сужающего преобразования.
+     1>D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(32,21): warning C4305: инициализация: усечение из "int" в "year"
+     1>D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(32,21): warning C4309: инициализация: усечение константного значения
+     1>D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(33,21): warning C4838: Преобразование из "int" в "year" требует сужающего преобразования.
+     1>D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(33,21): warning C4305: инициализация: усечение из "int" в "year"
+     1>D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(33,21): warning C4309: инициализация: усечение константного значения
+     1>D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(34,21): warning C4838: Преобразование из "int" в "year" требует сужающего преобразования.
+     1>D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(34,21): warning C4305: инициализация: усечение из "int" в "year"
+     1>D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(34,21): warning C4309: инициализация: усечение константного значения
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\лабораторные работы\кпо\lab04\x64\Debug\lab04.exe" /INCREMENTAL /ILK:"x64\Debug\lab04.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\лабораторные работы\кпо\lab04\x64\Debug\lab04.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\лабораторные работы\кпо\lab04\x64\Debug\lab04.lib" /MACHINE:X64 x64\Debug\lab04.obj
+         lab04.vcxproj -> D:\лабораторные работы\кпо\lab04\x64\Debug\lab04.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\lab04.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\lab04.tlog\lab04.lastbuildstate".
+     1>Сборка проекта "D:\лабораторные работы\кпо\lab04\lab04\lab04.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\лабораторные работы\кпо\lab04\lab04\lab04.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(32,21): warning C4838: Преобразование из "int" в "year" требует сужающего преобразования.
+         D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(32,21): warning C4305: инициализация: усечение из "int" в "year"
+         D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(32,21): warning C4309: инициализация: усечение константного значения
+         D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(33,21): warning C4838: Преобразование из "int" в "year" требует сужающего преобразования.
+         D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(33,21): warning C4305: инициализация: усечение из "int" в "year"
+         D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(33,21): warning C4309: инициализация: усечение константного значения
+         D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(34,21): warning C4838: Преобразование из "int" в "year" требует сужающего преобразования.
+         D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(34,21): warning C4305: инициализация: усечение из "int" в "year"
+         D:\лабораторные работы\кпо\lab04\lab04\lab04.cpp(34,21): warning C4309: инициализация: усечение константного значения
+
+    Предупреждений: 9
+    Ошибок: 0
+
+Прошло времени 00:00:00.86

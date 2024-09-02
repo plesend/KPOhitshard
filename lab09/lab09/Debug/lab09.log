@@ -1,0 +1,22 @@
+﻿Сборка начата 17.05.2024 10:31:37.
+Уровень детализации журнала: Normal.     1>Проект "D:\лабораторные работы\кпо\lab09\lab09\lab09.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\lab09.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Varfuncr.cpp
+         Varfuncr.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\лабораторные работы\кпо\lab09\Debug\lab09.exe" /INCREMENTAL /ILK:"Debug\lab09.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\лабораторные работы\кпо\lab09\Debug\lab09.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\лабораторные работы\кпо\lab09\Debug\lab09.lib" /MACHINE:X86 Debug\Varfuncr.obj
+         lab09.vcxproj -> D:\лабораторные работы\кпо\lab09\Debug\lab09.exe
+       TlogCleanup:
+         Следующие элементы будут удалены из tlogs, так как они были удалены из проекта или сборки: D:\лабораторные работы\кпо\lab09\lab09\1.cpp.
+       FinalizeBuildStatus:
+         Файл "Debug\lab09.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab09.tlog\lab09.lastbuildstate".
+     1>Сборка проекта "D:\лабораторные работы\кпо\lab09\lab09\lab09.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.60
